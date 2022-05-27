@@ -1,0 +1,64 @@
+segment_sources:
+  I0D60FD79:
+    type: origin_type
+    relation: translation
+    language: sa
+  IE789E109:
+    type: origin_type
+    relation: translation
+    language: zh
+  I11980375:
+    type: origin_type
+    relation: translation
+    language: zh
+  IDD8C140F:
+    type: origin_type
+    relation: translation
+    language: bo
+  IC5601191:
+    type: origin_type
+    relation: translation
+    language: ug
+segment_pairs:
+  3cea8504fabf4274aa1ae5d65c8adaf1:
+    I0D60FD79: fc51d62ab83a4d9b8518ee31ed30e44c
+    IE789E109: f01daf41f44d44169979f30f2e1da6a1
+    I11980375: 2592a5fefca5456bbc7813dbc910f4eb
+    IDD8C140F: 1b7ad82f620447a9adb9e51daed33097
+    IC5601191: None
+  581384eeabe0442894492b6a9cd70e6f:
+    I0D60FD79: 09a9a99e8a5348bfb4164f3983a8f896
+    IE789E109: 6c0b4a801bbf4e48a9eb7c03606fe34f
+    I11980375: cc03b59c0948451888eb321735516fe2
+    IDD8C140F: adf02fefc0ce4aeda249b691bc4c15f0
+    IC5601191: None
+  3ce9decb7997457b826a53d549d047f3:
+    I0D60FD79: 11625def6322438eb9b8a84b393c2717
+    IE789E109: b1f50f4d62f74be2b83605c9be285801
+    I11980375: 8e71e98c675349bfa99f6f783102a963
+    IDD8C140F: ab23b19c3cea4747b6eb35b1b8b22e98
+    IC5601191: None
+  fa77226426024789b24ba56acb6bf91b:
+    I0D60FD79: 09a0f7d06fe74c3bae4598f60c93355f
+    IE789E109: e973930c87e64bad98b76edbcca8cec3
+    I11980375: 8d0c1bc86402445e99a3393c3f7c4ffb
+    IDD8C140F: 0480ff3a3cf6403b8144dff6f330f878
+    IC5601191: None
+  18be70fb4f6249d7b35122e89bf747fa:
+    I0D60FD79: 7c90eb1cc98a42d388b34215160d8891
+    IE789E109: 1cfabbfed145408c9fef9b575ce1d078
+    I11980375: f93a005328c84093bc06f3d6fae95438
+    IDD8C140F: 99f4fdb4c61049c6ac578470ad9ed550
+    IC5601191: None
+  58541e82c6f24fbdac2b5ac56d8356dc:
+    I0D60FD79: 0b2cbc5879214419be9a9ad5ff7b984e
+    IE789E109: c3244635eb9d4f88aa79b459d8bb98ed
+    I11980375: ca4f3320baeb44a48d9a0e1c12b9c124
+    IDD8C140F: 8419b3818d5041a59bc8466e6bbe8092
+    IC5601191: None
+  c7fc8ff8205b49ee8b22c3dc259b62ca:
+    I0D60FD79: 4399c092bfd743b1abe934d901e44d6d
+    IE789E109: 4860411fd7b74119b01f4156f8e0e371
+    I11980375: 49e33e71f5434695bcf615f7eaac9d7d
+    IDD8C140F: e8ebc49b48074badacf38fcef027854c
+    IC5601191: None
